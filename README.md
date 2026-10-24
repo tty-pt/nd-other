@@ -62,6 +62,10 @@ either way.
   match it reads the object and its skeleton, sets `obj.art_id` to a random
   variant within `skel.max_art`, and writes the object back.
 
+## Packaged Assets
+
+- **Art (`art/`)**: Miscellaneous entity and environmental resource graphics (`stick.png` and the `art/other/` directory).
+
 ## Testing
 
 There is no `test.sh` here. Behaviour is asserted by the engine's own suite,

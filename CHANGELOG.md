@@ -1,4 +1,9 @@
-## 1.0.1
+## [1.0.2]
+
+- **Documentation & Modder Guide**:
+  - Standardized README with man-src, art, and modder guide.
+
+## [1.0.1]
 
 - **macOS: link with `-undefined dynamic_lookup`.** macOS `ld` rejects
   undefined symbols in a shared library, but `WARN` needs `qsyslog` — an
